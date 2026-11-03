@@ -11,7 +11,7 @@ I use this GitHub portfolio to document hands-on security lab work, focusing on 
 - **CompTIA A+**
 
 ### Portfolio Projects & Lab Notes
-- **[GRC - Essential 8 Simulated Audit](https://github.com/Ryan-Barby/GRC-E8-audit)**
+- **[GRC - Essential 8 Simulated Audit](https://github.com/Ryan-Barby/GRC-Essential8-audit)**
   Hands-on ACSC Essential Eight (Maturity Level 1) review of a fictional allied health clinic, using a Windows 11 lab VM, PowerShell checks and a simple risk register.
 
 - **[Wazuh SIEM Lab](https://github.com/Ryan-Barby/wazuh-siem-lab)**  
