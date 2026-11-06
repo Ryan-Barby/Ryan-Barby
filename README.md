@@ -14,7 +14,7 @@ I use this GitHub portfolio to document hands-on security lab work, focusing on 
 - **[GRC - Essential 8 Simulated Audit](https://github.com/Ryan-Barby/GRC-Essential8-audit)**
   Hands-on ACSC Essential Eight (Maturity Level 1) review of a fictional allied health clinic, using a Windows 11 lab VM, PowerShell checks and a simple risk register.
 
-  **[Phishing URL Analysis](https://github.com/Ryan-Barby/phishing-url-analysis)**
+ - **[Phishing URL Analysis](https://github.com/Ryan-Barby/phishing-url-analysis)**
 Entry-level phishing URL investigation using PhishTank, urlscan, VirusTotal and WHOIS, with an evidence log and practice incident report.
 
 - **[Wazuh SIEM Lab](https://github.com/Ryan-Barby/wazuh-siem-lab)**  
